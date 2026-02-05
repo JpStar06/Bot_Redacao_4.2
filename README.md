@@ -1,4 +1,4 @@
-# 📝 Redação Bot 4.0
+# 📝 Redação Bot 4.2
 
 Automação inteligente para escrita e envio de redações, com interface moderna e controle total do usuário.
 
