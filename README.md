@@ -48,7 +48,7 @@ Esta versão marca a evolução do projeto de um simples script para um **aplica
 
 Este projeto também possui uma documentação visual em HTML:
 
-👉 **[Abrir README visual](README.html)**
+👉 **[Abrir README visual](https://jpstar06.github.io/Bot_Redacao_4.2/README.html)**
 
 ---
 ## Instalção (Normal)
