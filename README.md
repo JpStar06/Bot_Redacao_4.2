@@ -50,10 +50,12 @@ Este projeto também possui uma documentação visual em HTML:
 
 👉 **[Abrir README visual](README.html)**
 
-(ideal para visualização via GitHub Pages)
+---
+## Instalção (Normal)
+
+👉 https://www.mediafire.com/file/befny5x2k9s0jgw/Bot_para_Reda%25C3%25A7%25C3%25A3o_4.2.zip/file
 
 ---
-
 ## 📦 Instalação (modo desenvolvedor)
 
 Clone o repositório:
